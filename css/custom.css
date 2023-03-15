@@ -20,4 +20,11 @@ li {
 .zt-title{
   color:#fddd43;
   font-weight: bold;
+  font-size: 48px;
+  font-family: 'Righteous', cursive;
+}
+
+.carousel-item img {
+  height: 400px;
+  object-fit:contain;
 }
