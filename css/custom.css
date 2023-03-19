@@ -46,3 +46,7 @@ li {
 #home{
   z-index: 10;
 }
+
+.demo-box{
+  height:285px !important;
+}
