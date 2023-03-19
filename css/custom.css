@@ -47,6 +47,6 @@ li {
   z-index: 10;
 }
 
-.demo-box{
-  height:285px !important;
+.demo-box img{
+  object-fit: cover;
 }
