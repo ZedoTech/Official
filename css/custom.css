@@ -47,6 +47,10 @@ li {
   z-index: 10;
 }
 
+.bg-home {
+  padding: 120px 0px 0px 0px;
+}
+
 .demo-box img{
   object-fit: cover;
 }
