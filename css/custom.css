@@ -27,7 +27,8 @@ li {
 
 .carousel-item img {
   height: 280px;
-  object-fit:contain;
+  width:auto;
+  object-fit:cover;
   z-index: 999;
   margin: 10px auto
 }
@@ -52,5 +53,13 @@ li {
 }
 
 .demo-box img{
+  height: 240px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.client-images img{
+  height: 60px;
+  width:auto;
   object-fit: cover;
 }
