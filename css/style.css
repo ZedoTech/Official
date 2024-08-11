@@ -205,7 +205,7 @@ html {
 }
 
 .home-title .home-desc {
-  max-width: 605px;
+  /* max-width: 605px; */
   font-size: 16px;
 }
 .home-title .subscribe input {
